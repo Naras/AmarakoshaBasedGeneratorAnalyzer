@@ -4,7 +4,7 @@ with open("README.txt", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="AmaraNarasMG",
+    name="amarakosha",
     version="0.0.1",
     author="Narasimhan M.G.",
     author_email="narasimhanmg@gmail.com",
